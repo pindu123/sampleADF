@@ -1,0 +1,9 @@
+{
+	"name": "wheatherData",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf09c91b-46a9-44e0-a5a0-31f4c8a70fe6",
+		"tenantId": "9338301f-c16b-47d5-b91e-c59c1758659d"
+	}
+}
